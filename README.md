@@ -10,6 +10,8 @@ A lightweight, fast, highly-customizable, well-documented circular button with a
 
 ![Sample](http://i.imgur.com/qkjHBCf.gif)
 
+![Sample](http://i.imgur.com/YWgDhtY.gif)
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first. 
