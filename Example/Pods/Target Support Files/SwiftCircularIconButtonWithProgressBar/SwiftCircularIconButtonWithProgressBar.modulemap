@@ -1,0 +1,6 @@
+framework module SwiftCircularIconButtonWithProgressBar {
+  umbrella header "SwiftCircularIconButtonWithProgressBar-umbrella.h"
+
+  export *
+  module * { export * }
+}

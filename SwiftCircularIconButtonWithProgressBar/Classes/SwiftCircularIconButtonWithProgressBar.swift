@@ -128,7 +128,7 @@ public class SwiftCircularIconButtonWithProgressBar: UIButton {
         }
         
         get {
-            return UIImage(CGImage: (icon?.CGImage)!)
+            return iconLayer.contents != nil ? UIImage(CGImage: (iconLayer.contents as! CGImage)) : nil
         }
     }
 

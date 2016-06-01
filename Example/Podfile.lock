@@ -1,0 +1,16 @@
+PODS:
+  - SwiftCircularIconButtonWithProgressBar (0.1.0)
+
+DEPENDENCIES:
+  - SwiftCircularIconButtonWithProgressBar (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftCircularIconButtonWithProgressBar:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SwiftCircularIconButtonWithProgressBar: 7e42dddc975b3007cae5a437284f1d9e31b3a3de
+
+PODFILE CHECKSUM: c0afc4320e6c86332ad1c7a95a86869702c3a452
+
+COCOAPODS: 1.0.0

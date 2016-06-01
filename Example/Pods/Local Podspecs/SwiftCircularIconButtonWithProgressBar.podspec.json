@@ -1,0 +1,22 @@
+{
+  "name": "SwiftCircularIconButtonWithProgressBar",
+  "version": "0.1.0",
+  "summary": "A short description of SwiftCircularIconButtonWithProgressBar.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/SwiftCircularIconButtonWithProgressBar",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Alankar Misra": "alankarmisra@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/SwiftCircularIconButtonWithProgressBar.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SwiftCircularIconButtonWithProgressBar/Classes/**/*"
+}
