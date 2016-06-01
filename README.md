@@ -8,7 +8,7 @@
 ## Description
 A lightweight, fast, highly-customizable, well-documented circular button with an animated progress bar, and a settable icon with subtle transitions when the icon is changed. Perfect for download buttons, audio player buttons and the customary "much much more!". Written in pure Swift. Uses IBDesignable and IBInspectable so you can customize the button from within Interface Builder and watch it update live. 
 
-![Sample](http://i.imgur.com/qkjHBCf.gifv)
+![Sample](http://i.imgur.com/qkjHBCf.gif)
 
 ## Example
 
