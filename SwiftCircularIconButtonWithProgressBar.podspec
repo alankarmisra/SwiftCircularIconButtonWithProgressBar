@@ -1,42 +1,19 @@
-#
-# Be sure to run `pod lib lint SwiftCircularIconButtonWithProgressBar.podspec' to ensure this is a
-# valid spec before submitting.
-#
-# Any lines starting with a # are optional, but their use is encouraged
-# To learn more about a Podspec see http://guides.cocoapods.org/syntax/podspec.html
-#
-
 Pod::Spec.new do |s|
   s.name             = 'SwiftCircularIconButtonWithProgressBar'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of SwiftCircularIconButtonWithProgressBar.'
-
-# This description is used to generate tags and improve search results.
-#   * Think: What does it do? Why did you write it? What is the focus?
-#   * Try to keep it short, snappy and to the point.
-#   * Write the description between the DESC delimiters below.
-#   * Finally, don't worry about the indent, CocoaPods strips it!
+  s.version          = '1.0.1'
+  s.summary          = 'A lightweight, highly-customizable, well-documented circular button with an animated progress bar, and the ability to display an icon with subtle transitions when the icon is changed. Perfect for download buttons, audio player buttons and the customary "much much more!"'
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+A lightweight, highly-customizable, well-documented circular button with an animated progress bar, and the ability to display an icon with subtle transitions when the icon is changed. Perfect for download buttons, audio player buttons and the customary "much much more!". Written in pure swift. 
                        DESC
 
-  s.homepage         = 'https://github.com/<GITHUB_USERNAME>/SwiftCircularIconButtonWithProgressBar'
-  # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
+  s.homepage         = 'https://github.com/alankarmisra/SwiftCircularIconButtonWithProgressBar'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Alankar Misra' => 'alankarmisra@gmail.com' }
-  s.source           = { :git => 'https://github.com/<GITHUB_USERNAME>/SwiftCircularIconButtonWithProgressBar.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.source           = { :git => 'https://github.com/alankarmisra/SwiftCircularIconButtonWithProgressBar.git', :tag => s.version.to_s }
+  s.social_media_url = 'https://www.linkedin.com/in/alankarmisra'
 
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'SwiftCircularIconButtonWithProgressBar/Classes/**/*'
-  
-  # s.resource_bundles = {
-  #   'SwiftCircularIconButtonWithProgressBar' => ['SwiftCircularIconButtonWithProgressBar/Assets/*.png']
-  # }
-
-  # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
 end
