@@ -6,6 +6,10 @@
 //  Copyright (c) 2016 Alankar Misra. All rights reserved.
 //
 
+/* Credits: 
+ The Example uses icons created by lastspark and useiconic.com from the Noun Project.
+ */
+
 import UIKit
 import SwiftCircularIconButtonWithProgressBar
 
