@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SwiftCircularIconButtonWithProgressBar_Example' do
+  pod 'SwiftCircularIconButtonWithProgressBar', :path => '../'
+
+  target 'SwiftCircularIconButtonWithProgressBar_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
